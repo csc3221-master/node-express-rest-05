@@ -1,0 +1,22 @@
+{
+  "name": "express-02",
+  "version": "1.0.0",
+  "description": "Using routers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc3221-master/node-express-02.git"
+  },
+  "author": "Carlos Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc3221-master/node-express-02/issues"
+  },
+  "homepage": "https://github.com/csc3221-master/node-express-02#readme"
+}
