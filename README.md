@@ -1,2 +1,2 @@
-# node-express-02
-Second example using express
+# node-express-rest-02
+Database Access with Express and REST
